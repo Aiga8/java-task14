@@ -1,6 +1,0 @@
-GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-statistic,ru.netology.domain,Smartphone,3,0,0,0,1,0,1,0,1,0
-statistic,ru.netology.domain,Book,3,0,0,0,1,0,1,0,1,0
-statistic,ru.netology.domain,Product,0,19,0,0,0,8,0,5,0,5
-statistic,ru.netology.repository,ProductRepository,0,83,0,6,0,18,0,7,0,4
-statistic,ru.netology.manager,ProductManager,0,70,0,6,0,16,0,7,0,4
